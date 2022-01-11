@@ -2,7 +2,7 @@
 - 👀 I’m interested in music production, hiking, coding!
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on some hypercountry tracks
-- 📫 How to reach me; hoho@hoholabs.com
+- 📫 How to reach me; john.horan@hoholabs.com
 
 <!---
 hoholabs/hoholabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
